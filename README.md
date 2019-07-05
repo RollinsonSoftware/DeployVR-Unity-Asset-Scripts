@@ -1,2 +1,2 @@
 # DeployVR-Unity-Asset-Scripts
-Some scripts that help manipulate game objects with in the unity 3D engine. 
+Unity allows you to create your own Components using scripts. These allow you to trigger game events, modify Component properties over time and respond to user input in any way you like. Will be adding more soon. 
